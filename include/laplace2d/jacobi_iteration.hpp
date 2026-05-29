@@ -1,0 +1,7 @@
+#ifndef LAPLACE2D_JACOBI_ITERATION_HPP
+#define LAPLACE2D_JACOBI_ITERATION_HPP
+
+#include <omp.h>
+#include "iteration.hpp"
+
+#endif //LAPLACE2D_JACOBI_ITERATION_HPP

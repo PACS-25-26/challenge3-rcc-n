@@ -1,0 +1,5 @@
+#ifndef LAPLOCE2D_GRID_HPP
+#define LAPLOCE2D_GRID_HPP
+
+
+#endif //LAPLACE2D_GRID_HPP
