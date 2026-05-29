@@ -76,3 +76,4 @@ docs/latex/
 
 # Project executable
 solver
+bin/
